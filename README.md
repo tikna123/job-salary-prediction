@@ -27,14 +27,14 @@ metadata for an individual job posting
 * companyId has 63 unique values, can not easily visualize
 * The rest of the categorical variables, jobType, degree, major and industry have a small amount of unique values and can visualize
 * The minimum of salary is 0, need to check
-<img src="https://github.com/tikna123/job-salary-prediction/blob/main/images/2.2.png" width="500">
-<img src="https://github.com/tikna123/job-salary-prediction/blob/main/images/2.21.png" width="900">
+<img src="https://github.com/tikna123/job-salary-prediction/blob/main/images/2.2.PNG" width="500">
+<img src="https://github.com/tikna123/job-salary-prediction/blob/main/images/2.21.PNG" width="900">
 
 ## 2.3 check where the salary is equal to 0
 * The rows where salary is equal to 0 looks normal, it does not look like unpaid position
 * There are only 5 such rows
 * We can remove these rows.
-<img src="https://github.com/tikna123/job-salary-prediction/blob/main/images/2.3.png" width="900">
+<img src="https://github.com/tikna123/job-salary-prediction/blob/main/images/2.3.PNG" width="900">
 
 ## 2.4 Salary plot
 * Salary is following a normal distribution
